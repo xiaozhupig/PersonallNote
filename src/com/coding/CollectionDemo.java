@@ -8,6 +8,8 @@ public class CollectionDemo {
 		System.out.println("world");
 		System.out.println("!!!");
 		System.out.println("------");
+		System.out.println("hello");
+		System.out.println("hello");
 	}
 
 }
