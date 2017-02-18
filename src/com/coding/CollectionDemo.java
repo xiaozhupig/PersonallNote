@@ -7,6 +7,7 @@ public class CollectionDemo {
 		System.out.println("hello");
 		System.out.println("world");
 		System.out.println("!!!");
+		System.out.println("------");
 	}
 
 }
