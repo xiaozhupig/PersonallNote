@@ -51,8 +51,8 @@ public class FileDemo {
 		file4.renameTo(new File("D:/123.java"));
 		System.out.println(file4);
 		System.out.println("*****");
-			System.getProperty("FileDemo.java");
-			PrintStream p
+			
+			
 			
 		
 			
